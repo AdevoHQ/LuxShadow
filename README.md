@@ -1,4 +1,4 @@
-# luxShadow 🌘
+# LuxShadow 🌘
 
 A lightweight and minimalist web utility for generating CSS box-shadows in real time. Designed as a single self-contained file for maximum portability.
 
