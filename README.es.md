@@ -1,4 +1,4 @@
-# luxShadow 🌘
+# LuxShadow 🌘
 
 Utilidad web ultraligera y minimalista para generar sombras CSS (`box-shadow`) en tiempo real. Diseñada en un solo archivo autocontenido para máxima portabilidad.
 
